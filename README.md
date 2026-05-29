@@ -15,3 +15,10 @@ Memory feature for storing user interests
 Follow-up conversation handling
 File-based data storage
 Error handling for invalid input
+
+Cybersecurity Topics Covered:
+Phishing
+Malware
+Password Security
+Safe Browsing
+Online Safety
