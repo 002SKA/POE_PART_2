@@ -45,9 +45,10 @@ Ensure the voice.wav file is included in the output directory.
 Run the application.
 Enter a valid username and begin chatting with the cybersecurity chatbot.
 
+ References:
+Cisco. (2025) *What is phishing?* Available at: https://www.cisco.com (Accessed: 29 May 2026).
+Kaspersky. (2025) *What is malware?* Available at: https://www.kaspersky.com (Accessed: 29 May 2026).
+Microsoft. (2025) *Password security best practices*. Available at: https://www.microsoft.com (Accessed: 29 May 2026).
 
-Additional cybersecurity topics
-Enhanced AI conversation capabilities
-Database integration
-Improved sentiment analysis
-More advanced memory and personalization features
+
+
