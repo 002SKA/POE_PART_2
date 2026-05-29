@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\bin\Debug\POE_PART_2.exe.config
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\bin\Debug\POE_PART_2.exe
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\bin\Debug\POE_PART_2.pdb
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2_MarkupCompile.cache
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2_MarkupCompile.lref
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\MainWindow.baml
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.g.resources
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.Properties.Resources.resources
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.exe
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.pdb
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2.exe.config
+C:\Users\Student\source\repos\POE_PART_2\POE_PART_2\obj\Debug\POE_PART_2_Content.g.cs
